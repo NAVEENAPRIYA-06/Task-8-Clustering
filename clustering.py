@@ -128,4 +128,4 @@ if __name__ == "__main__":
         cluster_summary = X_with_labels.groupby('Cluster').mean()
         print(cluster_summary)
 
-        print("\nK-Means Clustering Task Completed Successfully! 🎉")
+        print("\nK-Means Clustering Task Completed Successfully! ")
